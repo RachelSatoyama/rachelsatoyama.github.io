@@ -1,0 +1,28 @@
+
+body {
+    font-size: 14px;
+    background-color: white;
+    color: black;
+    /*
+    font-family: Monaco, "Helvetica Neue", Arial, sans-serif;
+    */
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    color: #2E2E2C;
+    font-weight: bold;
+}
+
+.contents {
+   margin: 0 auto;
+   max-width: 600px;
+}
+
+.chapter {
+    margin-bottom: 36px;
+}
+
+.chapter div {
+    margin-bottom: 8px;
+}
